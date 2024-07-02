@@ -16,7 +16,7 @@ Welcome to my GitHub profile. I'm a passionate web developer with a love for cra
 - ![React](https://img.icons8.com/color/48/000000/react-native.png) React
 - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
 - ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
-- ![DaisyUI](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-tailwind-css-a-utility-first-css-framework-for-rapidly-building-custom-designs-logo-color-tal-revivo.png) DaisyUI
+- ![DaisyUI](https://daisyui.com/favicon.svg) DaisyUI
 - ![MambaUI](https://your-image-url/mambaui.png) MambaUI (add the correct image URL)
 
 ### **Tools:**
