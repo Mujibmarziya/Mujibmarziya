@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Muna Marziya! 👋
 
-<!--
-**Mujibmarziya/Mujibmarziya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I'm a passionate web developer with a love for crafting beautiful and functional digital experiences.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🤔I' am a web developer and i’m looking for jobs as a fresher
+- 📫 How to reach me: munaweb15@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 🛠️ My Skills
+### **Languages:**
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+
+### **Frameworks/Libraries:**
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) React
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
+- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
+- ![DaisyUI](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-tailwind-css-a-utility-first-css-framework-for-rapidly-building-custom-designs-logo-color-tal-revivo.png) DaisyUI
+- ![MambaUI](https://your-image-url/mambaui.png) MambaUI (add the correct image URL)
+
+### **Tools:**
+- ![Git](https://img.icons8.com/color/48/000000/git.png) Git
+- ![Figma](https://img.icons8.com/color/48/000000/figma.png) Figma
